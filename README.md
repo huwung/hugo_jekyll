@@ -1,4 +1,4 @@
-＃ Introduction
+# Introduction
 
 當一直對什麼都好奇的菜鳥碰上一個新鮮玩意兒的時候會是什麼情況？
 

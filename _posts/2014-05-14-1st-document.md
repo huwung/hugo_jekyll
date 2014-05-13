@@ -13,8 +13,11 @@ title: 尝鲜，或者说找虐
 
 发布的命令如下：
 git add .
+
 git commit -m "first post"
+
 git remote add origin https://github.com/huwung/hugo_jekyll.git
+
 git push origin gh-pages
 
 

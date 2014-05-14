@@ -1,6 +1,6 @@
 ---
 layout: hugo
-title: Small Data: The huge cost of developing drugs
+title: Small Data -- The huge cost of developing drugs
 ---
 
 Everything about the US pharmaceutical company Pfizer's attempts to buy its Anglo-Swedish rival AstraZeneca is big. Let me try to explain why, writes Anthony Reuben.

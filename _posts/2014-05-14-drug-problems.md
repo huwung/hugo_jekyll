@@ -1,5 +1,5 @@
 ---
-layout: hugo
+layout: default
 title: Small Data -- The huge cost of developing drugs
 ---
 

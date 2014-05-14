@@ -68,7 +68,7 @@ title: Semih Yağcıoğlu的一天
 
 ## 标注
 
-[1] Inbox zero 是指清理干净你的收件箱，消灭所有纷扰的事情。
+[1] [Inbox zero](http://inboxzero.com/) 是指清理干净你的收件箱，消灭所有纷扰的事情。
 
 [2] Pomodoro 是一种把工作分成25分钟左右的时间段，中间休息5到15分钟的方法。
 

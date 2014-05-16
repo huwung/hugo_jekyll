@@ -70,3 +70,6 @@ LinkedIn的最新产品LinkedIn Answers就是为了在网上实现这一目的�
 ## 了解竞争对手、客户、合作伙伴，等等。
 
 这看起来是再简单不过的了，但是你甚至可以利用LinkedIn去了解竞争对手以及客户和合作伙伴的团队。例如，如果你的竞争对手的营销副总裁来自Oracle，那么她也许相信商业就是战争。
+
+# zhihu上面的经验
+[领英秘籍](http://zhuanlan.zhihu.com/linkedin/19703417)
